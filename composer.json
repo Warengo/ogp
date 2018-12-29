@@ -1,0 +1,9 @@
+{
+	"name": "warengo/ogp",
+	"type": "library",
+	"autoload": {
+		"psr-4": {
+			"Warengo\\OGP\\": ["src/"]
+		}
+	}
+}
